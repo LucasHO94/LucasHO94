@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 ![LucasHO94 Status](https://github-readme-stats.vercel.app/api?username=LucasHO94&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHO94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/LucasHO94/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasHO94&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/LucasHO94/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasHO94&repo=convoychat" />
+</a>
